@@ -1,0 +1,5 @@
+These scripts control the DJI Tello drones, the drones were used to do some fun demonstrations at the open day on 23 November. 
+
+Please Note!!!!!!!!
+
+These scripts are by no means related to the main project. Simply for demonstration purposes.

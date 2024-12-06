@@ -1,0 +1,1 @@
+This file is a dump of the PostgreSQL database from the server. It contains the structure and data of the database, including tables, sequences, constraints, and other database objects. 
