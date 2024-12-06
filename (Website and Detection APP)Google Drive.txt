@@ -1,0 +1,2 @@
+Visit this Google Drive Link to Download the Website which hosts the prediction model and the app that facilitates the live detection.
+Please see README file for a better understanding of how the website and the app works.
